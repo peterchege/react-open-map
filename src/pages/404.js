@@ -10,7 +10,7 @@ const NotFoundPage = () => {
     <Layout>
       <Container type="content" className="text-center">
         <h1>Page Not Found</h1>
-        <img class="gatsby-astronaut" src={error_gif} alt="404" />
+        <img src={error_gif} alt="404" />
         <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
       </Container>
     </Layout>
