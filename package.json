@@ -79,13 +79,6 @@
       "yarn format:nopath",
       "yarn lint"
     ]
-  },
-  "homepage": "https://gatsby-starter-leaflet.netlify.app/",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/colbyfayock/gatsby-starter-leaflet"
-  },
-  "bugs": {
-    "url": "https://github.com/colbyfayock/gatsby-starter-leaflet/issues"
   }
+ 
 }

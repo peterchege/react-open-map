@@ -2,11 +2,16 @@
 
 This is a simple map application built using open street maps, React Leaflet and Gatsby. The application gets the current position from the browser and displays a map with the current position.
 
+NOTE: To get you current position please enable the location access in your browser. You will be prompted to allow the application to access your location when the site loads for the first time.
+
+By default the map will be centered to this  position [lat: 38.9072,lng: -77.0369,] in USA.
+
 ## 🧰 What This Includes
 * [Yarn](https://yarnpkg.com/en/)
 * [Gatsby](https://www.gatsbyjs.org/)
 * [Sass](https://sass-lang.com)
 * [React Helmet](https://github.com/nfl/react-helmet)
+* [Open Street Map](https://www.openstreetmap.org)
 * [Leaflet](https://leafletjs.com/)
 * [React Leaflet](https://react-leaflet.js.org)
 * [Jest](https://jestjs.io/)
@@ -14,7 +19,6 @@ This is a simple map application built using open street maps, React Leaflet and
 ## 🚀 Getting Started
 
 ### Requirements
-* [Gatsby CLI](https://www.npmjs.com/package/gatsby-cli)
 * [Yarn](https://yarnpkg.com/en/)
 
 ### Quick Start
@@ -34,6 +38,10 @@ yarn start
 ```
 yarn clean
 ```
+
+### Application URL
+
+* http://localhost:8000
 
 
 ### Running Tests
