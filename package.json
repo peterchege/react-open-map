@@ -52,7 +52,6 @@
     "mapping",
     "maps"
   ],
-  "license": "MIT",
   "scripts": {
     "build": "gatsby build --log-pages",
     "bump": "npm version",
