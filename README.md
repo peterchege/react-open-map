@@ -1,4 +1,4 @@
-# Gatsby Leaflet Starter
+# Open Street Map Find User Location
 
 This is a simple map application built using open street maps, React Leaflet and Gatsby. The application gets the current position from the browser and displays a map with the current position.
 
